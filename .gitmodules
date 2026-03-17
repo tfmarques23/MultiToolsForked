@@ -7,3 +7,63 @@
 [submodule "Enum/PEASS-ng"]
 	path = Enum/PEASS-ng
 	url = https://github.com/carlospolop/PEASS-ng
+[submodule "AD/ShareHound"]
+	path = AD/ShareHound
+	url = https://github.com/tfmarques23/ShareHound
+[submodule "AD/GPOHound"]
+	path = AD/GPOHound
+	url = https://github.com/tfmarques23/GPOHound
+[submodule "AD/NauthNRPC"]
+	path = AD/NauthNRPC
+	url = https://github.com/tfmarques23/NauthNRPC
+[submodule "AD/AD-Pentesting-Notes"]
+	path = AD/AD-Pentesting-Notes
+	url = https://github.com/tfmarques23/AD-Pentesting-Notes
+[submodule "AD/AD-Attack-Defense"]
+	path = AD/AD-Attack-Defense
+	url = https://github.com/tfmarques23/AD-Attack-Defense
+[submodule "AD/ntlmrelayx2proxychains"]
+	path = AD/ntlmrelayx2proxychains
+	url = https://github.com/tfmarques23/ntlmrelayx2proxychains
+[submodule "WEb/netscaler_scales_check"]
+	path = WEb/netscaler_scales_check
+	url = https://github.com/tfmarques23/netscaler_scales_check
+[submodule "WEb/Anubis"]
+	path = WEb/Anubis
+	url = https://github.com/tfmarques23/Anubis
+[submodule "WEb/Web-Attack-Cheat-Sheet"]
+	path = WEb/Web-Attack-Cheat-Sheet
+	url = https://github.com/tfmarques23/Web-Attack-Cheat-Sheet
+[submodule "WEb/trufflehogmmm"]
+	path = WEb/trufflehogmmm
+	url = https://github.com/tfmarques23/trufflehog
+[submodule "Enum/Raccoon"]
+	path = Enum/Raccoon
+	url = https://github.com/tfmarques23/Raccoon
+[submodule "Enum/pscan"]
+	path = Enum/pscan
+	url = https://github.com/tfmarques23/pscan
+[submodule "Enum/Wordlists_subenum"]
+	path = Enum/Wordlists_subenum
+	url = https://github.com/tfmarques23/Wordlists_subenum
+[submodule "Enum/wordlistsmmm"]
+	path = Enum/wordlistsmmm
+	url = https://github.com/tfmarques23/wordlists
+[submodule "OSCP/OSCP_notes"]
+	path = OSCP/OSCP_notes
+	url = https://github.com/tfmarques23/OSCP_notes
+[submodule "INFOs/Blue-Team-Notes"]
+	path = INFOs/Blue-Team-Notes
+	url = https://github.com/tfmarques23/Blue-Team-Notes
+[submodule "INFOs/Ransomware-Database"]
+	path = INFOs/Ransomware-Database
+	url = https://github.com/tfmarques23/Ransomware-Database
+[submodule "INFOs/deepdarkCTI"]
+	path = INFOs/deepdarkCTI
+	url = https://github.com/tfmarques23/deepdarkCTI
+[submodule "INFOs/ShomeCheatsheet"]
+	path = INFOs/ShomeCheatsheet
+	url = https://github.com/tfmarques23/ShomeCheatsheet
+[submodule "INFOs/CRTOm"]
+	path = INFOs/CRTOm
+	url = https://github.com/tfmarques23/CRTO
