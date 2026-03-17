@@ -196,3 +196,9 @@
 [submodule "Enum/substats"]
 	path = Enum/substats
 	url = https://github.com/zzzteph/substats
+[submodule "AD/ActiveDirectory_LuckyLuk3"]
+	path = AD/ActiveDirectory_LuckyLuk3
+	url = https://github.com/lucky-luk3/ActiveDirectory
+[submodule "Powershell/LazyWinAdmin_PS"]
+	path = Powershell/LazyWinAdmin_PS
+	url = https://github.com/lazywinadmin/PowerShell
