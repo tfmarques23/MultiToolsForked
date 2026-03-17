@@ -67,3 +67,123 @@
 [submodule "INFOs/CRTOm"]
 	path = INFOs/CRTOm
 	url = https://github.com/tfmarques23/CRTO
+[submodule "AD/ActiveDirectory"]
+	path = AD/ActiveDirectory
+	url = https://github.com/tfmarques23/ActiveDirectory
+[submodule "AD/Active-Directory-Exploitation-Cheat-Sheet"]
+	path = AD/Active-Directory-Exploitation-Cheat-Sheet
+	url = https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+[submodule "AD/active-directory-pentest"]
+	path = AD/active-directory-pentest
+	url = https://github.com/geeksniper/active-directory-pentest
+[submodule "AD/impacket"]
+	path = AD/impacket
+	url = https://github.com/fortra/impacket
+[submodule "AD/Responder"]
+	path = AD/Responder
+	url = https://github.com/lgandx/Responder
+[submodule "AD/PetitPotam"]
+	path = AD/PetitPotam
+	url = https://github.com/topotam/PetitPotam
+[submodule "AD/noPac"]
+	path = AD/noPac
+	url = https://github.com/Ridter/noPac
+[submodule "AD/ADCollector"]
+	path = AD/ADCollector
+	url = https://github.com/dev-2null/ADCollector
+[submodule "AD/SharpSQLPwn"]
+	path = AD/SharpSQLPwn
+	url = https://github.com/lefayjey/SharpSQLPwn
+[submodule "AD/impacket-shell-integrationmmmmmmmm"]
+	path = AD/impacket-shell-integrationmmmmmmmm
+	url = https://github.com/dadevel/impacket-shell-integration
+[submodule "WEb/OWASP-Web-Checklist"]
+	path = WEb/OWASP-Web-Checklist
+	url = https://github.com/tfmarques23/OWASP-Web-Checklist
+[submodule "WEb/IPRotate_Burp_Extension"]
+	path = WEb/IPRotate_Burp_Extension
+	url = https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension
+[submodule "WEb/PayloadsAllTheThings"]
+	path = WEb/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings
+[submodule "WEb/evilginx2"]
+	path = WEb/evilginx2
+	url = https://github.com/kgretzky/evilginx2
+[submodule "WEb/EmailSecCheck"]
+	path = WEb/EmailSecCheck
+	url = https://github.com/MarkoH17/EmailSecCheck
+[submodule "WEb/SSRFire"]
+	path = WEb/SSRFire
+	url = https://github.com/ksharinarayanan/SSRFire
+[submodule "WEb/commix"]
+	path = WEb/commix
+	url = https://github.com/commixproject/commix
+[submodule "WEb/Scrapling"]
+	path = WEb/Scrapling
+	url = https://github.com/D4Vinci/Scrapling
+[submodule "Enum/nmapAutomator"]
+	path = Enum/nmapAutomator
+	url = https://github.com/21y4d/nmapAutomator
+[submodule "Enum/SecLists"]
+	path = Enum/SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "Enum/htrace.sh"]
+	path = Enum/htrace.sh
+	url = https://github.com/trimstray/htrace.sh
+[submodule "OSCP/OSCP-Stuff"]
+	path = OSCP/OSCP-Stuff
+	url = https://github.com/tjnull/OSCP-Stuff
+[submodule "INFOs/BlackDragon"]
+	path = INFOs/BlackDragon
+	url = https://github.com/sniper199/BlackDragon
+[submodule "INFOs/Linux-Privilege-Escalation"]
+	path = INFOs/Linux-Privilege-Escalation
+	url = https://github.com/Ignitetechnologies/Linux-Privilege-Escalation
+[submodule "INFOs/Priv2Admin"]
+	path = INFOs/Priv2Admin
+	url = https://github.com/gtworek/Priv2Admin
+[submodule "INFOs/awesome-pentest"]
+	path = INFOs/awesome-pentest
+	url = https://github.com/enaqx/awesome-pentest
+[submodule "INFOs/LOLBAS"]
+	path = INFOs/LOLBAS
+	url = https://github.com/LOLBAS-Project/LOLBAS
+[submodule "INFOs/RedTeam-Toolsmmmmmmmmmmmmmmmmmm"]
+	path = INFOs/RedTeam-Toolsmmmmmmmmmmmmmmmmmm
+	url = https://github.com/A-poc/RedTeam-Tools
+[submodule "Powershell/nishang"]
+	path = Powershell/nishang
+	url = https://github.com/samratashok/nishang
+[submodule "Powershell/PowerShell-Scripts"]
+	path = Powershell/PowerShell-Scripts
+	url = https://github.com/lazywinadmin/PowerShell
+[submodule "Powershell/WinPwn"]
+	path = Powershell/WinPwn
+	url = https://github.com/S3cur3Th1sSh1t/WinPwn
+[submodule "Powershell/Pentest-Tools"]
+	path = Powershell/Pentest-Tools
+	url = https://github.com/S3cur3Th1sSh1t/Pentest-Tools
+[submodule "Powershell/CVE-2020-1350_HoneyPoC"]
+	path = Powershell/CVE-2020-1350_HoneyPoC
+	url = https://github.com/ZephrFish/CVE-2020-1350_HoneyPoC
+[submodule "Powershell/MSOLSpray"]
+	path = Powershell/MSOLSpray
+	url = https://github.com/dafthack/MSOLSpray
+[submodule "Powershell/Go365"]
+	path = Powershell/Go365
+	url = https://github.com/optiv/Go365
+[submodule "Powershell/routersploit"]
+	path = Powershell/routersploit
+	url = https://github.com/threat9/routersploit
+[submodule "Powershell/Pandoras-Box"]
+	path = Powershell/Pandoras-Box
+	url = https://github.com/paranoidninja/Pandoras-Box
+[submodule "Powershell/HackTools"]
+	path = Powershell/HackTools
+	url = https://github.com/LasCC/HackTools
+[submodule "Powershell/Viper"]
+	path = Powershell/Viper
+	url = https://github.com/FunnyWolf/Viper
+[submodule "Powershell/linWinPwn"]
+	path = Powershell/linWinPwn
+	url = https://github.com/lefayjey/linWinPwn
