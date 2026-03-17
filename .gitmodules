@@ -187,3 +187,12 @@
 [submodule "Powershell/linWinPwn"]
 	path = Powershell/linWinPwn
 	url = https://github.com/lefayjey/linWinPwn
+[submodule "Powershell/krakenhashes_original"]
+	path = Powershell/krakenhashes_original
+	url = https://github.com/ZerkerEOD/krakenhashes
+[submodule "WEb/trufflehog_official"]
+	path = WEb/trufflehog_official
+	url = https://github.com/trufflesecurity/trufflehog
+[submodule "Enum/substats"]
+	path = Enum/substats
+	url = https://github.com/zzzteph/substats
