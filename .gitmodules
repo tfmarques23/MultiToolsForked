@@ -1,0 +1,9 @@
+[submodule "AD/bloodhound.py"]
+	path = AD/bloodhound.py
+	url = https://github.com/dirkjanm/bloodhound.py
+[submodule "WEb/httpx"]
+	path = WEb/httpx
+	url = https://github.com/projectdiscovery/httpx
+[submodule "Enum/PEASS-ng"]
+	path = Enum/PEASS-ng
+	url = https://github.com/carlospolop/PEASS-ng
